@@ -1,0 +1,12 @@
+/Users/liukai/codes/my-xuecheng-plus/xuecheng-plus-content/xuecheng-plus-content-model/src/main/java/com/xuecheng/content/model/po/CourseCategory.java
+/Users/liukai/codes/my-xuecheng-plus/xuecheng-plus-content/xuecheng-plus-content-model/src/main/java/com/xuecheng/content/model/dto/QueryCourseParamsDto.java
+/Users/liukai/codes/my-xuecheng-plus/xuecheng-plus-content/xuecheng-plus-content-model/src/main/java/com/xuecheng/content/model/po/TeachplanMedia.java
+/Users/liukai/codes/my-xuecheng-plus/xuecheng-plus-content/xuecheng-plus-content-model/src/main/java/com/xuecheng/content/model/po/CourseBase.java
+/Users/liukai/codes/my-xuecheng-plus/xuecheng-plus-content/xuecheng-plus-content-model/src/main/java/com/xuecheng/content/model/dto/CourseCategoryTreeDto.java
+/Users/liukai/codes/my-xuecheng-plus/xuecheng-plus-content/xuecheng-plus-content-model/src/main/java/com/xuecheng/content/model/po/CourseMarket.java
+/Users/liukai/codes/my-xuecheng-plus/xuecheng-plus-content/xuecheng-plus-content-model/src/main/java/com/xuecheng/content/model/po/CoursePublishPre.java
+/Users/liukai/codes/my-xuecheng-plus/xuecheng-plus-content/xuecheng-plus-content-model/src/main/java/com/xuecheng/content/model/po/CourseTeacher.java
+/Users/liukai/codes/my-xuecheng-plus/xuecheng-plus-content/xuecheng-plus-content-model/src/main/java/com/xuecheng/content/model/po/CoursePublish.java
+/Users/liukai/codes/my-xuecheng-plus/xuecheng-plus-content/xuecheng-plus-content-model/src/main/java/com/xuecheng/content/model/po/Teachplan.java
+/Users/liukai/codes/my-xuecheng-plus/xuecheng-plus-content/xuecheng-plus-content-model/src/main/java/com/xuecheng/content/model/dto/CourseBaseInfoDto.java
+/Users/liukai/codes/my-xuecheng-plus/xuecheng-plus-content/xuecheng-plus-content-model/src/main/java/com/xuecheng/content/model/dto/AddCourseDto.java
